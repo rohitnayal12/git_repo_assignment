@@ -1,0 +1,2 @@
+let name="rohit";
+let age=24
